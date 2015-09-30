@@ -1,0 +1,25 @@
+body.color-inverse{
+    background-color: #333 !important;
+    color: #eee;
+}
+
+body.color-inverse div, 
+body.color-inverse li, 
+body.color-inverse h1, 
+body.color-inverse h2, 
+body.color-inverse h3, 
+body.color-inverse h4, 
+body.color-inverse h5, 
+body.color-inverse section, 
+body.color-inverse p, 
+body.color-inverse span {
+    color: #ddd !important;
+    background-color: #333 !important;
+}
+
+
+body.color-inverse a, 
+body.color-inverse a:link, 
+body.color-inverse a:visited {
+    color: #39c !important;
+}
